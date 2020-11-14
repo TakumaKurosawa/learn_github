@@ -1,6 +1,9 @@
 # learn_github
-GitHub実践ハンズオン
+
+GitHub 実践ハンズオン
 
 変更してみたよ！＾ｐ＾
 
-developブランチから変更したよ！＾ｐ＾
+develop ブランチから変更したよ！^p^
+
+絵文字がでない
