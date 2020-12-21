@@ -1,6 +1,5 @@
-# learn_github
-GitHub実践ハンズオン
+# GitHub 実践ハンズオン(fork)
 
-変更してみたよ！<-追記
+参考URL https://qiita.com/TakumaKurosawa/items/79a75026327d8deb9c04
 
-developブランチから変更したよ！<-追記
+2020/12/20 GitHub maintenance
